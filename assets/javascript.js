@@ -3,7 +3,7 @@ const quizData = [
       question: "Who is Absolute Champion in bjj?",
       a: " Nicholas Meregali",
       b: "Gordon Ryan",
-      c: "Bernando feria",
+      c: "Bernando Feria",
       d: "Kaynan Duarte",
       correct: "a",
   },
