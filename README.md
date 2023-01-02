@@ -56,7 +56,7 @@ https://filipljung.github.io/quiz.site.github.io/
 
 
 ## Introdcution
-- Yoga-Website is website intended for passionate Yoga enthusiasts and those who are about to become one. It is an imaginary company but with the intention for someone to use the content of Yoga site maybe as an idea to make imaginary come to life and make yoga community expand. With that thought I'm inviting you to join me on a virtual journey of making Yoga. Targeted user is any adventurous person aged 7-120yrs who is willing to learn and enjoy life and want to learn more about jiu jutsi trough this website Quiz. 
+- The quiz is website intended for passionate Jiu jutsi enthusiasts and those who are about to become one. It is an imaginary company but with the intention for someone to use the content of Yoga site maybe as an idea to make imaginary come to life and make yoga community expand. With that thought I'm inviting you to join me on a virtual journey of making Yoga. Targeted user is any adventurous person aged 0-120yrs who is willing to learn and enjoy life and want to learn more about jiu jutsi trough this website Quiz. 
 
 
 
