@@ -32,7 +32,7 @@ const quizData = [
       correct: "a",
   },
   {
-    question: "Who is the most famous traiiner?",
+    question: "Who is the most famous trainer?",
     a: "Gordon Ryan",
     b: "Nicky Rodriguez",
     c: "John Danaher",
