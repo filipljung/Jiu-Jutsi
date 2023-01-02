@@ -31,6 +31,22 @@ const quizData = [
       d: "Roger Gracie",
       correct: "a",
   },
+  {
+    question: "Who is the most famous traiiner?",
+    a: "Gordon Ryan",
+    b: "Nicky Rodriguez",
+    c: "John Danaher",
+    d: "Roger Gracie",
+    correct: "c",
+},
+{ 
+  question: "Who is the youngest ADCC champion?",
+  a: "Gordon Ryan",
+  b: "Andre Galvao",
+  c: "Tye rutolo",
+  d: "Kade rutolo",
+  correct: "a",
+},
 ];
 const quiz= document.getElementById('quiz')
 const answerEls = document.querySelectorAll('.answer')
