@@ -15,6 +15,8 @@ https://filipljung.github.io/quiz.site.github.io/
 ## User Interface(UI)
 * [User Interface](#User-Interface)
 
+## Testing
+* [HTML Validation](#HTML-Validation)
 
 ## Deployment Method
 * [How to Deploy](#How-I-Deployed)
@@ -100,6 +102,14 @@ Sample Question and Score:
 ![A sample question in the quiz](images/Question.PNG)
 
 ![A sample score achieved in the quiz](images/score.PNG)
+
+
+## HTML-Validation
+index.html and 404.html files have been properly validated through
+w3c validator:
+![index.html validation](images/index.PNG)
+
+![404.html validation](images/404.PNG)
 
 
 ## How I Deployed
