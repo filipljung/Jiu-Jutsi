@@ -15,15 +15,12 @@ https://filipljung.github.io/quiz.site.github.io/
 ## User Interface(UI)
 * [User Interface](#User-Interface)
 
-## Design 
-* [Chosen Design](#Chosen-Deisgn)
-* [Wireframes](#Wireframes)
-* [Color](#Color)
-* [Fonts](#Fonts)
-* [Structure](#Structure)
 
 ## Deployment Method
 * [How to Deploy](#How-I-Deployed)
+
+## Acknowledgement
+* [Acknowledgements](#Acknowledgements)
 
 ## Used
 * [Technologies Used](#Technologies-Used)
