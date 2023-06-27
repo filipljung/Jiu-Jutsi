@@ -121,8 +121,8 @@ Preferred type of user who would benefit from visiting this website and vice ver
 
 
 ## User Interface
-![A sample question in the quiz](images/Question.jpg)
-![A sample score achieved in the quiz](images/score.jpg)
+![A sample question in the quiz](images/Question.PNG)
+![A sample score achieved in the quiz](images/score.PNG)
 
 
 ## How to Deploy
