@@ -6,7 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/CSS assets/styles.css">
     <title>Jiu Jutsi Quiz</title>
+    <!--Favicon Link-->
     <link rel="icon" type="image/x-icon" href="images/Ninja.ico">
+    <script>
+        //Added Functionality
+        // Redirect to 404.html if the internet connection is not available
+        if (!navigator.onLine) {
+          window.location.href = "404.html";
+        }
+    </script>
 </head>
 <body>
   <!-- Quiz container -->
