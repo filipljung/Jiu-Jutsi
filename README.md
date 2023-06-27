@@ -25,8 +25,11 @@ https://filipljung.github.io/quiz.site.github.io/
 ## Deployment Method
 * [How to Deploy](#How-I-Deployed)
 
-## Technologies Used
+## Used
 * [Technologies Used](#Technologies-Used)
+
+## Contact Me
+* [Contact](#Contact)
 
 
 
