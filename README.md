@@ -23,36 +23,14 @@ https://filipljung.github.io/quiz.site.github.io/
 * [Structure](#Structure)
 
 ## Deployment Method
-* [How to Deploy](#How-to-Deploy)
+* [How to Deploy](#How-I-Deployed)
 
-## Technologies Used
+## Used
+* [Technologies Used](#Technologies-Used)
 
-* [Main Languages Used](#Main-Languages-Used)
-* [Frameworks Libraries & Programs Used](#Frameworks-Libraries-&-Programs-Used)
+## Contact Me
+* [Contact](#Contact)
 
-
-## Features
-
-* [Existing-features](#Existing-features)
-* [Features to implement in future](#Features-to-implement-in-future)
-
-## Testing 
-
-* [HTML Validation](#HTML-Validation)
-* [CSS Validation](#CSS-Validation)
-* [Accessibility](#Accessibility)
-* [Performance](#Performance)
-* [Device testing](#Device-testing)
-* [Browser compatibility](#Browser-compatibility)
-* [Testing user stories](#Testing-user-stories)
-
-* [Bugs](#Bugs)
-
-## Deployment 
-* [Deploying on Github Pages](#Deploying-on-Github-Pages)
-* [Local Development](#Local-Development)
-* [How to fork](#How-to-Fork)
-* [How to Clone](#How-to-Clone)
 
 
 ## Introdcution
@@ -127,7 +105,7 @@ Sample Question and Score:
 ![A sample score achieved in the quiz](images/score.PNG)
 
 
-## How to Deploy
+## How I Deployed
 - For deployment to GitHub I simply created a new repository.
 - Named my repository: "quiz.site.github.io".
 - Uploaded the project into my repository.
@@ -148,9 +126,6 @@ Sample Question and Score:
 - HTML5
 - CSS
 - Javascript
-
-## Frameworks and Libraries & Programs Used
-
 - Gitpod
 - Github
 - Git
