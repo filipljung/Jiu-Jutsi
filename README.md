@@ -12,6 +12,9 @@ https://filipljung.github.io/quiz.site.github.io/
 * [User requirements and Expectations](#User-Requirements-and-Expectations)
 * [User Stories](#User-Stories)
 
+## User Interface(UI)
+* [User Interface](#User-Interface)
+
 ## Design 
 * [Chosen Design](#Chosen-Deisgn)
 * [Wireframes](#Wireframes)
@@ -115,6 +118,11 @@ Preferred type of user who would benefit from visiting this website and vice ver
 - As a returning user, I want to know more about the team that will possibly train me.
 - As a returning user,I want to see all options that are available to me.
 - As a returning user,I want to be pleased with website functionality so I can recommend it to my friends
+
+
+## User Interface
+![A sample question in the quiz](images/Question.jpg)
+![A sample score achieved in the quiz](images/score.jpg)
 
 
 ## How to Deploy
