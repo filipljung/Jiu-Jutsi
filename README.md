@@ -121,10 +121,9 @@ Preferred type of user who would benefit from visiting this website and vice ver
 
 
 ## User Interface
-Sample Question:
+Sample Question and Score:
 ![A sample question in the quiz](images/Question.PNG)
 
-Sample Score:
 ![A sample score achieved in the quiz](images/score.PNG)
 
 
