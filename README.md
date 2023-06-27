@@ -18,6 +18,7 @@ https://filipljung.github.io/quiz.site.github.io/
 ## Testing
 * [HTML Validation](#HTML-Validation)
 * [CSS Validation](#CSS-Validation)
+* [Manual Testing](#Manual-Testing)
 
 ## Deployment Method
 * [How to Deploy](#How-I-Deployed)
@@ -119,6 +120,13 @@ Validator:
 
 ![styles.css validation](images/styles.PNG)
 
+
+## Manual Testing
+- The Quiz has been tested with several inputs and for each test it gives the 
+  expected output score.
+- The 404 error handler has been tested by turning the internet off:
+
+![404 validation](images/Error.PNG)
 
 ## How I Deployed
 - For deployment to GitHub I simply created a new repository.
