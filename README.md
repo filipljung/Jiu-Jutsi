@@ -23,7 +23,7 @@ https://filipljung.github.io/quiz.site.github.io/
 * [Structure](#Structure)
 
 ## Deployment Method
-* [How to Deploy](#How-to-Deploy)
+* [How to Deploy](#How-I-Deployed)
 
 ## Technologies Used
 * [Technologies Used](#Technologies-Used)
@@ -123,8 +123,6 @@ Sample Question and Score:
 - HTML5
 - CSS
 - Javascript
-
-
 - Gitpod
 - Github
 - Git
