@@ -17,6 +17,7 @@ https://filipljung.github.io/quiz.site.github.io/
 
 ## Testing
 * [HTML Validation](#HTML-Validation)
+* [CSS Validation](#CSS-Validation)
 
 ## Deployment Method
 * [How to Deploy](#How-I-Deployed)
@@ -104,12 +105,19 @@ Sample Question and Score:
 ![A sample score achieved in the quiz](images/score.PNG)
 
 
-## HTML-Validation
+## HTML Validation
 index.html and 404.html files have been properly validated through
 w3c validator:
 ![index.html validation](images/index.PNG)
 
 ![404.html validation](images/404.PNG)
+
+
+## CSS Validation
+styles.css file has been properly validated and tested through the w3c jigsaw
+Validator:
+
+![styles.css validation](images/styles.PNG)
 
 
 ## How I Deployed
