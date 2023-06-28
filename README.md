@@ -1,7 +1,7 @@
 # Brazilian Jiu Jitsu Quiz
 Welcome to the Brazilian Jiu Jitsu Quiz! This quiz is designed to test your knowledge of the martial art of Brazilian Jiu Jitsu and the champions of ADCC.
 Live link!
-https://filipljung.github.io/quiz.site.github.io/
+https://filipljung.github.io/Jiu-Jutsi/
 
 ## Project Goals
 * [User Goals](#User-Goals)
